@@ -1,0 +1,44 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+.title-container {
+  width: 100%;
+  background-image: url('./assets/pattern.jpeg');
+  text-align: center;
+}
+
+.title {
+  font-size: 100px;
+
+  font-weight: bold;
+  color: khaki;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.category-title-one {
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.category-title-two {
+  background-color: coral;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.category-title-three {
+  background-color: skyblue;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.pricing {
+  color: blue;
+  font-weight: bold;
+}
